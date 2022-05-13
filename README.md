@@ -1,6 +1,5 @@
 # replace-tv-os
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
-
+К сожалению в тех событиях которые происходят сейчас очень сильно замешано телевиденье и средства СМИ. Мы не в силах повлиять на то что пишут СМИ  и показывает телевизор. Однако у нас есть еще возможность выбирать что смотреть, и что читать хоть и с каждым днем все сложнее и сложнее. Цель данного проекта показать, что есть альтернативы телевидению на данный момент. 
 
 
 
@@ -11,14 +10,8 @@
 Не молчите! Молчание - знак вашего согласия с политикой российского правительства.  
 **Вы можете сделать выбор НЕ МОЛЧАТЬ.**
 
----
 
-## 🇺🇸 To people of Russia
 
-There is a war in Ukraine right now. The forces of the Russian Federation are attacking civilian infrastructure in [Kharkiv][1], [Kyiv][2], [Chernihiv][3], [Sumy][4], [Irpin][5] and dozens of other cities. People are dying – both civilians and military servicemen, [including Russian conscripts][6] who were thrown into the fighting. In order to deprive its own people of access to information, the government of the Russian Federation has forbidden calling a war a war, shut down independent media and is passing a number of dictatorial laws. These laws are meant to silence all those who are against war. You can be jailed for multiple years for simply calling for peace.
-
-Do not be silent! Silence is a sign that you accept the Russian government's policy.  
-**You can choose NOT TO BE SILENT.**
 
 [1]: <https://cloudfront-us-east-2.images.arcpublishing.com/reuters/P7K2MSZDGFMIJPDD7CI2GIROJI.jpg> "Kharkiv under attack"
 [2]: <https://gdb.voanews.com/01bd0000-0aff-0242-fad0-08d9fc92c5b3_cx0_cy5_cw0_w1023_r1_s.jpg> "Kyiv under attack"
@@ -26,3 +19,7 @@ Do not be silent! Silence is a sign that you accept the Russian government's pol
 [4]: <https://www.youtube.com/watch?v=8K-bkqKKf2A> "Sumy under attack"
 [5]: <https://cloudfront-us-east-2.images.arcpublishing.com/reuters/K4MTMLEHTRKGFK3GSKAT4GR3NE.jpg> "Irpin under attack"
 [6]: <https://www.youtube.com/watch?v=wxnmy1Zu0-8&list=PL8ao2ZjeM9mslBOATvDa87lvgELw281lF&index=3&t=5s> "Intercepted communication"
+
+
+
+
