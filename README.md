@@ -162,7 +162,9 @@ Session=openbox
 
 ```
 sudo truncate --size=$[(22978559+1)*512] 'debian.img'
-```![Pasted image 20220512093514](https://user-images.githubusercontent.com/20460747/168291563-6358b3f8-68e8-4006-93c5-36486188b8a8.png)
+```
+
+![Pasted image 20220512093514](https://user-images.githubusercontent.com/20460747/168291563-6358b3f8-68e8-4006-93c5-36486188b8a8.png)
 
 
 
