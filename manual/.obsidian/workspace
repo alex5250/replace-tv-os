@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "793a82961374c9dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "57fd8cc87ed533a8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Замещаем телевизор.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b033b1c8b06508e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f71ee4d4141890c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72196eb7a1496228",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "eeeef02c9ee3073e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ad2161771e1dd659",
+    "type": "split",
+    "children": [
+      {
+        "id": "5385c7b3fc9312e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6eb128b695e621cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Замещаем телевизор.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "57fd8cc87ed533a8",
+  "lastOpenFiles": [
+    "Замещаем телевизор.md"
+  ]
+}
