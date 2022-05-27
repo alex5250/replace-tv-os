@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8">
+    <script type="text/javascript" src="/eel.js"></script>
+     <script src="https://cdn.tailwindcss.com"></script>
+    
+     <link rel="stylesheet" href="styles.css"></link>
+     <script src="main.js"></script>
+    <title>Installer</title>
+  </head>
+  <body onload="run()">
+
+  
+
+
+
+
+<div id="install">  
+<a href="#" class="card block p-6 max-w-sm bg-white rounded-lg border border-gray-200 shadow-md hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
+    <img class="installed_software" src="screen.png"></img>
+    <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">ReplaceTVOS</h5>
+    
+
+    <p>Сейчас производится установка ОС. Для этого от вас ничего не требуется кроме обеспечения доступа в  интернет.</p>
+    
+    <p> Выберите диск для установки.</p>
+    <br></br>
+    <select id="select_drive">
+        <option>Выберете диск для установки.</option>
+    </select>
+    <br></br>
+<button id="myBtn" class=" bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" onclick="download_install_os()">Скачать образ и установить ReplaceTVOS  </button>
+
+  </a>
+
+  
+
+</div>
+</div>  
+    <header></header>
+    <main>
+
+  
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <p>Происходит установка.... Подождите пожалуйста...</p>
+
+    
+
+
+      <button id="myBtn" class=" bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" onclick="download_install_os()">Отменить  </button>
+  </div>
+
+</div>
+    </main>
+    <footer></footer>
+  </body>
+</html>
