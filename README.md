@@ -17,5 +17,5 @@
 Есть три способв установки: 
 1) [Ручная сборка и настройка системы на базе чистого дебиана.](https://github.com/alex5250/replace-tv-os/blob/main/manual/manual.md)
 2) Уставновка .img образа через стороний livecd
-3) Установка с штатного livecd.
+3) [Установка с штатного livecd.](https://github.com/alex5250/replace-tv-os/blob/main/manual/livecd.md)
 
