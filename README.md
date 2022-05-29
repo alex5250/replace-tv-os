@@ -18,3 +18,6 @@
 1) [Ручная сборка и настройка системы на базе чистого дебиана.](https://github.com/alex5250/replace-tv-os/blob/main/manual/manual.md)
 2) [Установка .img образа через сторонний livecd](https://github.com/alex5250/replace-tv-os/blob/main/manual/double_usb_install.md)
 3) [Установка со штатного livecd.](https://github.com/alex5250/replace-tv-os/blob/main/manual/livecd.md)
+
+
+# Скриншоты:
