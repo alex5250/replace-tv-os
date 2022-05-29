@@ -22,5 +22,6 @@
 
 # Скриншоты:
 <img src=https://user-images.githubusercontent.com/20460747/170822747-3921fac9-428f-4065-ae04-e6d9dc68ba9a.png></img>
+<p>Установщик на свермалом разрешении </p>
 <img src=https://user-images.githubusercontent.com/20460747/168290582-c5435b86-373b-4182-b3c6-6ef7318c1c58.png></img>
-
+<p>Лаунчер после запуска системы </p>
